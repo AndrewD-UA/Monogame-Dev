@@ -4,6 +4,9 @@
 # Project files
 *.csproj
 
+# Solution files
+Intraactive.sln
+
 # Binary outputs
 Intraactive/bin/
 
