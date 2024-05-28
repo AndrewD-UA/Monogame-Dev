@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUXoqv8EOhNl4aA+hMEdt/TT6lRr4rNUPOo6+QawTOwifRPYBCD21V8aSo86/bcr7csWWMlvQYQXqBz3meaAiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inhop\\source\\repos\\Intraactive\\Intraactive\\Intraactive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inhop\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\inhop\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
