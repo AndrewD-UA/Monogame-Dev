@@ -1,3 +1,5 @@
-/vs
-.manifest
-.csproj
+#Ignore VS folder
+.vs/
+
+# Ignore 
+*.csproj
