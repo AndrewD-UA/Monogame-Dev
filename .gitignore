@@ -1,5 +1,15 @@
 #Ignore VS folder
 .vs/
 
-# Ignore 
+# Project files
 *.csproj
+
+# Binary outputs
+Intraactive/bin/
+
+Intraactive/obj/
+
+# Content importing framework
+Intraactive/Content/bin/
+Intraactive/Content/obj/
+Intraactive/Content/Content.mgcb
